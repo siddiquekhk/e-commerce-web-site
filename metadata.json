@@ -1,0 +1,9 @@
+
+{
+  "name": "buy zone - Luxury E-commerce",
+  "description": "A production-grade e-commerce platform featuring an elegant aesthetic, AI-powered shopping concierge, and a robust management dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
